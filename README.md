@@ -1,7 +1,7 @@
 # galpla-smd
 
-![front](img/pla_font.jpg | width=30%)
-![front](img/pla_back.jpg | width=30%)
+<img src="img/pla_font.jpg" width="30%" height="30%">
+<img src="img/pla_font.jpg" width="30%" height="30%">
 
 Commodore 64 PLA replacement using GAL20V8B 28-pin PLCC chips. Based on [PLA20V8](https://www.freepascal.org/~daniel/c64pla/) by Daniël Mantione. Published under permission from Däniel.
 
