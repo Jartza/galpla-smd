@@ -1478,9 +1478,9 @@ by Jari Tulilahti / Firebay refurb</text>
 </sheet>
 </sheets>
 <errors>
-<approved hash="106,1,86.36,48.26,TEMP_IO1,,,,,"/>
-<approved hash="113,1,20.32,7.64286,IC3,,,,,"/>
-<approved hash="113,1,92.6634,87.63,C1,,,,,"/>
+<approved hash="106,1,96.52,48.26,TEMP_IO1,,,,,"/>
+<approved hash="113,1,15.24,43.2029,IC3,,,,,"/>
+<approved hash="113,1,95.25,95.6098,C1,,,,,"/>
 </errors>
 </schematic>
 </drawing>
