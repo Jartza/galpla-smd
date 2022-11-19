@@ -723,11 +723,11 @@ Please make sure your boards conform to these design rules.
 <wire x1="2.54" y1="15.24" x2="6.5894" y2="15.24" width="0.1524" layer="1"/>
 <wire x1="6.5894" y1="15.24" x2="6.6294" y2="15.2" width="0.1524" layer="1"/>
 <via x="6.6294" y="15.2" extent="1-16" drill="0.3"/>
-<wire x1="6.6294" y1="15.2" x2="6.6294" y2="33.0706" width="0.1524" layer="16"/>
-<wire x1="6.6294" y1="33.0706" x2="6.6" y2="33.1" width="0.1524" layer="16"/>
-<via x="6.6" y="33.1" extent="1-16" drill="0.3"/>
-<wire x1="6.6" y1="33.1" x2="6.35" y2="33.35" width="0.1524" layer="1"/>
-<wire x1="6.35" y1="33.35" x2="6.35" y2="34.61" width="0.1524" layer="1"/>
+<wire x1="6.6294" y1="15.2" x2="6.6294" y2="32.9294" width="0.1524" layer="16"/>
+<wire x1="6.6294" y1="32.9294" x2="6.8" y2="33.1" width="0.1524" layer="16"/>
+<via x="6.8" y="33.1" extent="1-16" drill="0.3"/>
+<wire x1="6.8" y1="33.1" x2="6.35" y2="33.55" width="0.1524" layer="1"/>
+<wire x1="6.35" y1="33.55" x2="6.35" y2="34.61" width="0.1524" layer="1"/>
 </signal>
 <signal name="I_VA13">
 <contactref element="RIGHT" pad="12"/>
